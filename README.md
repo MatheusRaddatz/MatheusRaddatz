@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
---**MatheusRaddatz/MatheusRaddatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **MatheusRaddatz/MatheusRaddatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+- ⚡ Fun fact: ... -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&multiline=true&width=440&height=60&lines=Hello!+my+name+is+Matheus+Raddatz;Currently+learning+Java+fullstacking)](https://git.io/typing-svg)
