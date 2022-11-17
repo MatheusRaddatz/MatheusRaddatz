@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&multiline=true&width=440&height=60&lines=Hello!+my+name+is+Matheus+Raddatz;Currently+learning+Java+fullstacking)](https://git.io/typing-svg)
+
+![Visits](https://komarev.com/ghpvc/?username=oliota&style=plastic&color=ff69b4&label=Welcome!+You+are+my+visitor+nº:)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=F400F7&background=000000&multiline=true&width=440&height=90&lines=Hello!+my+name+is+Matheus+Raddatz%2C;I'm+currently+learning+Java;Fullstacking+on+proway)](https://git.io/typing-svg)
